@@ -1,6 +1,6 @@
 ### Date created
-Project : 19 Semptembre 2019  
-README  : 21 Semptembre 2019  
+Project : 19 Septembre 2019  
+README  : 21 Septembre 2019  
 
 ### Bikeshare
 
