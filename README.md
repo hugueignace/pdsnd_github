@@ -6,7 +6,7 @@ README  : 21 Semptembre 2019
 
 ### Description
 this project aims to explore data related to bike share systems  
-for three major cities in the United States — Chicago, New York City, and Washington  
+for three major cities in the United States : Chicago, New York City, and Washington  
 using the python language
 
 ### Files used
