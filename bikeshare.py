@@ -1,7 +1,7 @@
 import pandas as pd
 import time
 
-# TO DO: set option "display.expand_frame_repr" à false for expand the output display
+# TO DO: set option "display.expand_frame_repr" for expand the output display
 pd.set_option('display.expand_frame_repr', False)
 
 CITY_DATA = { 'chicago': 'chicago.csv',
