@@ -1,6 +1,7 @@
 import pandas as pd
 import time
 
+
 # TO DO: set option "display.expand_frame_repr" for expand the output display
 pd.set_option('display.expand_frame_repr', False)
 
@@ -312,7 +313,6 @@ def load_data(city, month, day):
 def main():
     while True:
         city, month, day = get_filters()
-        print(city + ' - ' + month + ' - ' + day)
         df = load_data(city, month, day)
 
         time_stats(df)
